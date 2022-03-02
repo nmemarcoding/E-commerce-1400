@@ -19,7 +19,7 @@
 ## Test 
 * The project does not have any automated tests at the moment. Please feel free to contribute and provide them!
 ## Usage
-* Link to video showing how the application is used: [link]()    
+* Link to video showing how the application is used: [link](https://drive.google.com/file/d/1OMGeb2a3euOVXWu1BYlCn1qxLDnmLe57/view?usp=sharing)    
 ## Credits
 * node.js
 * dotenv
